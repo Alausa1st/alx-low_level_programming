@@ -1,6 +1,3 @@
-MAIN.C CODE
-
-
 #include "main.h"
 
 /**
